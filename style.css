@@ -1,0 +1,28 @@
+.main-container{
+ width: 350px;
+    height: 500px;
+    font-family: Roboto Mono;
+    margin: auto;
+
+}
+
+
+.image-size{
+    width: 50px;
+    height: 50px;
+    float:left;
+}
+.main-container p{
+    margin:5px;
+    vertical-align:middle;
+    padding: 3px 20px;
+}
+p:first-child{
+    font-weight: bolder;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+p:last-child{
+    color:rgb(120,120,120);
+    font-size: 14px;
+}
